@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quote_text">#454545</color>
+    <color name="gradient_start">#28313B</color>
+    <color name="gradient_end">#485461</color>
+</resources>
